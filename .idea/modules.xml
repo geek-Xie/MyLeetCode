@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/01SumOfTwoNumer(easy)/01SumOfTwoNumer(easy).iml" filepath="$PROJECT_DIR$/01SumOfTwoNumer(easy)/01SumOfTwoNumer(easy).iml" />
       <module fileurl="file://$PROJECT_DIR$/MyLeetCode.iml" filepath="$PROJECT_DIR$/MyLeetCode.iml" />
     </modules>
   </component>
