@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/01SumOfTwoNumer(easy)/01SumOfTwoNumer(easy).iml" filepath="$PROJECT_DIR$/01SumOfTwoNumer(easy)/01SumOfTwoNumer(easy).iml" />
+      <module fileurl="file://$PROJECT_DIR$/01SumOfTwoNumer(Easy)/01SumOfTwoNumer(Easy).iml" filepath="$PROJECT_DIR$/01SumOfTwoNumer(Easy)/01SumOfTwoNumer(Easy).iml" />
+      <module fileurl="file://$PROJECT_DIR$/02AddTwoNumers(Med)/02AddTwoNumers(Med).iml" filepath="$PROJECT_DIR$/02AddTwoNumers(Med)/02AddTwoNumers(Med).iml" />
+      <module fileurl="file://$PROJECT_DIR$/03LengthOfLongestSubstring(Med)/03LengthOfLongestSubstring(Med).iml" filepath="$PROJECT_DIR$/03LengthOfLongestSubstring(Med)/03LengthOfLongestSubstring(Med).iml" />
+      <module fileurl="file://$PROJECT_DIR$/05LongestPalindrome(Med)/05LongestPalindrome(Med).iml" filepath="$PROJECT_DIR$/05LongestPalindrome(Med)/05LongestPalindrome(Med).iml" />
       <module fileurl="file://$PROJECT_DIR$/MyLeetCode.iml" filepath="$PROJECT_DIR$/MyLeetCode.iml" />
     </modules>
   </component>
