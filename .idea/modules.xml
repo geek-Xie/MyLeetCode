@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/05LongestPalindrome(Med)/05LongestPalindrome(Med).iml" filepath="$PROJECT_DIR$/05LongestPalindrome(Med)/05LongestPalindrome(Med).iml" />
       <module fileurl="file://$PROJECT_DIR$/06ZConvert(Med)/06ZConvert(Med).iml" filepath="$PROJECT_DIR$/06ZConvert(Med)/06ZConvert(Med).iml" />
       <module fileurl="file://$PROJECT_DIR$/07NumReverse/07NumReverse.iml" filepath="$PROJECT_DIR$/07NumReverse/07NumReverse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07NumReverse(Easy)/07NumReverse(Easy).iml" filepath="$PROJECT_DIR$/07NumReverse(Easy)/07NumReverse(Easy).iml" />
       <module fileurl="file://$PROJECT_DIR$/MyLeetCode.iml" filepath="$PROJECT_DIR$/MyLeetCode.iml" />
     </modules>
   </component>
