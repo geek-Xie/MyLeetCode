@@ -21,9 +21,12 @@ public class Solution {
     public String longestPalindrome(String s) {
         int n = s.length();
         boolean[][] dp = new boolean[n][n];
+        // 结果字符串
         String ans = "";
-        for (int l = 0; l < n; ++l) {
-            for (int i = 0; i + l < n; ++i) {
+        // 左指针
+        for (int l = 0; l < n; l++) {
+            for (int i = 0; i + l < n; i++) {
+                // 右指针
                 int j = i + l;
                 if (l == 0) {
                     dp[i][j] = true;
