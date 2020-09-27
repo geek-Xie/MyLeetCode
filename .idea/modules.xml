@@ -7,8 +7,9 @@
       <module fileurl="file://$PROJECT_DIR$/03LengthOfLongestSubstring(Med)/03LengthOfLongestSubstring(Med).iml" filepath="$PROJECT_DIR$/03LengthOfLongestSubstring(Med)/03LengthOfLongestSubstring(Med).iml" />
       <module fileurl="file://$PROJECT_DIR$/05LongestPalindrome(Med)/05LongestPalindrome(Med).iml" filepath="$PROJECT_DIR$/05LongestPalindrome(Med)/05LongestPalindrome(Med).iml" />
       <module fileurl="file://$PROJECT_DIR$/06ZConvert(Med)/06ZConvert(Med).iml" filepath="$PROJECT_DIR$/06ZConvert(Med)/06ZConvert(Med).iml" />
-      <module fileurl="file://$PROJECT_DIR$/07NumReverse/07NumReverse.iml" filepath="$PROJECT_DIR$/07NumReverse/07NumReverse.iml" />
       <module fileurl="file://$PROJECT_DIR$/07NumReverse(Easy)/07NumReverse(Easy).iml" filepath="$PROJECT_DIR$/07NumReverse(Easy)/07NumReverse(Easy).iml" />
+      <module fileurl="file://$PROJECT_DIR$/08MyAtoi(Med)/08MyAtoi(Med).iml" filepath="$PROJECT_DIR$/08MyAtoi(Med)/08MyAtoi(Med).iml" />
+      <module fileurl="file://$PROJECT_DIR$/09IsPalindrome(Easy)/09IsPalindrome(Easy).iml" filepath="$PROJECT_DIR$/09IsPalindrome(Easy)/09IsPalindrome(Easy).iml" />
       <module fileurl="file://$PROJECT_DIR$/MyLeetCode.iml" filepath="$PROJECT_DIR$/MyLeetCode.iml" />
     </modules>
   </component>
