@@ -21,19 +21,30 @@
 
  */
 public class Solution {
+    /**
+     * 贪心法。
+     * 经过分析，我们会发现罗马数字在转化成阿拉伯数字的时候的一下规律。
+     * 每次都从罗马数字的最后一位开始看起，比较左边一位和当前位的大小，如果左边一位比当前位小，则减左边一位；如果左边一位比当前位大，则加左边一位。
+     * 例如：XXIV = 24
+     * 先看最后一位V是5，往左看是I是1比5小，则5-1=4，然后左边是X=10比I=1大，则4+10=14，再往左看X=X，则14+10=24
+     * 程序根据以上思路进行编写即可
+     * @param s
+     * @return
+     */
     public int romanToInt(String s) {
         int sum = 0;
-        int preNum = getValue(s.charAt(0));
-        for(int i = 1;i < s.length(); i++) {
+        int preNum = getValue(s.charAt(s.length() - 1));
+        sum = preNum;
+        for(int i = s.length() - 2;i >= 0; i--) {
             int num = getValue(s.charAt(i));
-            if(preNum < num) {
-                sum -= preNum;
+            if(preNum <= num) {
+                sum += num;
             } else {
-                sum += preNum;
+                sum -= num;
             }
             preNum = num;
         }
-        sum += preNum;
+
         return sum;
     }
 
