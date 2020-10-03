@@ -16,6 +16,12 @@
       <module fileurl="file://$PROJECT_DIR$/14LongestCommonPrefix(Easy)/14LongestCommonPrefix(Easy).iml" filepath="$PROJECT_DIR$/14LongestCommonPrefix(Easy)/14LongestCommonPrefix(Easy).iml" />
       <module fileurl="file://$PROJECT_DIR$/15ThreeSum(Med)/15ThreeSum(Med).iml" filepath="$PROJECT_DIR$/15ThreeSum(Med)/15ThreeSum(Med).iml" />
       <module fileurl="file://$PROJECT_DIR$/16ThreeSumClosest(Med)/16ThreeSumClosest(Med).iml" filepath="$PROJECT_DIR$/16ThreeSumClosest(Med)/16ThreeSumClosest(Med).iml" />
+      <module fileurl="file://$PROJECT_DIR$/17LetterCombinations(Med)/17LetterCombinations(Med).iml" filepath="$PROJECT_DIR$/17LetterCombinations(Med)/17LetterCombinations(Med).iml" />
+      <module fileurl="file://$PROJECT_DIR$/18FourSum(Med)/18FourSum(Med).iml" filepath="$PROJECT_DIR$/18FourSum(Med)/18FourSum(Med).iml" />
+      <module fileurl="file://$PROJECT_DIR$/19RemoveNthFromEnd/19RemoveNthFromEnd.iml" filepath="$PROJECT_DIR$/19RemoveNthFromEnd/19RemoveNthFromEnd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20IsValid(Easy)/20IsValid(Easy).iml" filepath="$PROJECT_DIR$/20IsValid(Easy)/20IsValid(Easy).iml" />
+      <module fileurl="file://$PROJECT_DIR$/21MergeTwoLists(Easy)/21MergeTwoLists(Easy).iml" filepath="$PROJECT_DIR$/21MergeTwoLists(Easy)/21MergeTwoLists(Easy).iml" />
+      <module fileurl="file://$PROJECT_DIR$/22GenerateParenthesis(Med)/22GenerateParenthesis(Med).iml" filepath="$PROJECT_DIR$/22GenerateParenthesis(Med)/22GenerateParenthesis(Med).iml" />
       <module fileurl="file://$PROJECT_DIR$/MyLeetCode.iml" filepath="$PROJECT_DIR$/MyLeetCode.iml" />
     </modules>
   </component>
