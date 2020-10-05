@@ -23,6 +23,9 @@
       <module fileurl="file://$PROJECT_DIR$/21MergeTwoLists(Easy)/21MergeTwoLists(Easy).iml" filepath="$PROJECT_DIR$/21MergeTwoLists(Easy)/21MergeTwoLists(Easy).iml" />
       <module fileurl="file://$PROJECT_DIR$/22GenerateParenthesis(Med)/22GenerateParenthesis(Med).iml" filepath="$PROJECT_DIR$/22GenerateParenthesis(Med)/22GenerateParenthesis(Med).iml" />
       <module fileurl="file://$PROJECT_DIR$/24SwapPairs(Med)/24SwapPairs(Med).iml" filepath="$PROJECT_DIR$/24SwapPairs(Med)/24SwapPairs(Med).iml" />
+      <module fileurl="file://$PROJECT_DIR$/26RemoveDuplicates(Easy)/26RemoveDuplicates(Easy).iml" filepath="$PROJECT_DIR$/26RemoveDuplicates(Easy)/26RemoveDuplicates(Easy).iml" />
+      <module fileurl="file://$PROJECT_DIR$/27RemoveElement(Easy)/27RemoveElement(Easy).iml" filepath="$PROJECT_DIR$/27RemoveElement(Easy)/27RemoveElement(Easy).iml" />
+      <module fileurl="file://$PROJECT_DIR$/28StrStr(Easy)/28StrStr(Easy).iml" filepath="$PROJECT_DIR$/28StrStr(Easy)/28StrStr(Easy).iml" />
       <module fileurl="file://$PROJECT_DIR$/MyLeetCode.iml" filepath="$PROJECT_DIR$/MyLeetCode.iml" />
     </modules>
   </component>
