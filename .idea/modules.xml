@@ -27,6 +27,9 @@
       <module fileurl="file://$PROJECT_DIR$/27RemoveElement(Easy)/27RemoveElement(Easy).iml" filepath="$PROJECT_DIR$/27RemoveElement(Easy)/27RemoveElement(Easy).iml" />
       <module fileurl="file://$PROJECT_DIR$/28StrStr(Easy)/28StrStr(Easy).iml" filepath="$PROJECT_DIR$/28StrStr(Easy)/28StrStr(Easy).iml" />
       <module fileurl="file://$PROJECT_DIR$/31NextPermutation(Med)/31NextPermutation(Med).iml" filepath="$PROJECT_DIR$/31NextPermutation(Med)/31NextPermutation(Med).iml" />
+      <module fileurl="file://$PROJECT_DIR$/33Search(Med)/33Search(Med).iml" filepath="$PROJECT_DIR$/33Search(Med)/33Search(Med).iml" />
+      <module fileurl="file://$PROJECT_DIR$/34SearchRange(Med)/34SearchRange(Med).iml" filepath="$PROJECT_DIR$/34SearchRange(Med)/34SearchRange(Med).iml" />
+      <module fileurl="file://$PROJECT_DIR$/35SearchInsert(Easy)/35SearchInsert(Easy).iml" filepath="$PROJECT_DIR$/35SearchInsert(Easy)/35SearchInsert(Easy).iml" />
       <module fileurl="file://$PROJECT_DIR$/MyLeetCode.iml" filepath="$PROJECT_DIR$/MyLeetCode.iml" />
     </modules>
   </component>
