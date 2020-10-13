@@ -34,6 +34,8 @@
       <module fileurl="file://$PROJECT_DIR$/38CountAndSay(Easy)/38CountAndSay(Easy).iml" filepath="$PROJECT_DIR$/38CountAndSay(Easy)/38CountAndSay(Easy).iml" />
       <module fileurl="file://$PROJECT_DIR$/39CombinationSum(Med)/39CombinationSum(Med).iml" filepath="$PROJECT_DIR$/39CombinationSum(Med)/39CombinationSum(Med).iml" />
       <module fileurl="file://$PROJECT_DIR$/40CombinationSum2(Med)/40CombinationSum2(Med).iml" filepath="$PROJECT_DIR$/40CombinationSum2(Med)/40CombinationSum2(Med).iml" />
+      <module fileurl="file://$PROJECT_DIR$/43Multiply(Med)/43Multiply(Med).iml" filepath="$PROJECT_DIR$/43Multiply(Med)/43Multiply(Med).iml" />
+      <module fileurl="file://$PROJECT_DIR$/46Permute(Med)/46Permute(Med).iml" filepath="$PROJECT_DIR$/46Permute(Med)/46Permute(Med).iml" />
       <module fileurl="file://$PROJECT_DIR$/MyLeetCode.iml" filepath="$PROJECT_DIR$/MyLeetCode.iml" />
     </modules>
   </component>
