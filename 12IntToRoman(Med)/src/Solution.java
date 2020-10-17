@@ -1,5 +1,3 @@
-import java.util.Enumeration;
-
 /**
  * 罗马数字包含以下七种字符：I，V，X，L，C，D和M。
  *
