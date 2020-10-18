@@ -39,6 +39,8 @@
       <module fileurl="file://$PROJECT_DIR$/47PermuteUnique(Med)/47PermuteUnique(Med).iml" filepath="$PROJECT_DIR$/47PermuteUnique(Med)/47PermuteUnique(Med).iml" />
       <module fileurl="file://$PROJECT_DIR$/48Rotate(Med)/48Rotate(Med).iml" filepath="$PROJECT_DIR$/48Rotate(Med)/48Rotate(Med).iml" />
       <module fileurl="file://$PROJECT_DIR$/49GroupAnagrams(Med)/49GroupAnagrams(Med).iml" filepath="$PROJECT_DIR$/49GroupAnagrams(Med)/49GroupAnagrams(Med).iml" />
+      <module fileurl="file://$PROJECT_DIR$/50MyPow(Med)/50MyPow(Med).iml" filepath="$PROJECT_DIR$/50MyPow(Med)/50MyPow(Med).iml" />
+      <module fileurl="file://$PROJECT_DIR$/53MaxSubArray(Easy)/53MaxSubArray(Easy).iml" filepath="$PROJECT_DIR$/53MaxSubArray(Easy)/53MaxSubArray(Easy).iml" />
       <module fileurl="file://$PROJECT_DIR$/MyLeetCode.iml" filepath="$PROJECT_DIR$/MyLeetCode.iml" />
     </modules>
   </component>
