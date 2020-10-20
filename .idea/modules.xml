@@ -41,6 +41,8 @@
       <module fileurl="file://$PROJECT_DIR$/49GroupAnagrams(Med)/49GroupAnagrams(Med).iml" filepath="$PROJECT_DIR$/49GroupAnagrams(Med)/49GroupAnagrams(Med).iml" />
       <module fileurl="file://$PROJECT_DIR$/50MyPow(Med)/50MyPow(Med).iml" filepath="$PROJECT_DIR$/50MyPow(Med)/50MyPow(Med).iml" />
       <module fileurl="file://$PROJECT_DIR$/53MaxSubArray(Easy)/53MaxSubArray(Easy).iml" filepath="$PROJECT_DIR$/53MaxSubArray(Easy)/53MaxSubArray(Easy).iml" />
+      <module fileurl="file://$PROJECT_DIR$/54SpiralOrder(Med)/54SpiralOrder(Med).iml" filepath="$PROJECT_DIR$/54SpiralOrder(Med)/54SpiralOrder(Med).iml" />
+      <module fileurl="file://$PROJECT_DIR$/55CanJump(Med)/55CanJump(Med).iml" filepath="$PROJECT_DIR$/55CanJump(Med)/55CanJump(Med).iml" />
       <module fileurl="file://$PROJECT_DIR$/MyLeetCode.iml" filepath="$PROJECT_DIR$/MyLeetCode.iml" />
     </modules>
   </component>
