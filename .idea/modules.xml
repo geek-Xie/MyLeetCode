@@ -43,6 +43,7 @@
       <module fileurl="file://$PROJECT_DIR$/53MaxSubArray(Easy)/53MaxSubArray(Easy).iml" filepath="$PROJECT_DIR$/53MaxSubArray(Easy)/53MaxSubArray(Easy).iml" />
       <module fileurl="file://$PROJECT_DIR$/54SpiralOrder(Med)/54SpiralOrder(Med).iml" filepath="$PROJECT_DIR$/54SpiralOrder(Med)/54SpiralOrder(Med).iml" />
       <module fileurl="file://$PROJECT_DIR$/55CanJump(Med)/55CanJump(Med).iml" filepath="$PROJECT_DIR$/55CanJump(Med)/55CanJump(Med).iml" />
+      <module fileurl="file://$PROJECT_DIR$/56Merge(Med)/56Merge(Med).iml" filepath="$PROJECT_DIR$/56Merge(Med)/56Merge(Med).iml" />
       <module fileurl="file://$PROJECT_DIR$/MyLeetCode.iml" filepath="$PROJECT_DIR$/MyLeetCode.iml" />
     </modules>
   </component>
