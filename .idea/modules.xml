@@ -45,6 +45,8 @@
       <module fileurl="file://$PROJECT_DIR$/55CanJump(Med)/55CanJump(Med).iml" filepath="$PROJECT_DIR$/55CanJump(Med)/55CanJump(Med).iml" />
       <module fileurl="file://$PROJECT_DIR$/56Merge(Med)/56Merge(Med).iml" filepath="$PROJECT_DIR$/56Merge(Med)/56Merge(Med).iml" />
       <module fileurl="file://$PROJECT_DIR$/58LengthOfLastWord(Med)/58LengthOfLastWord(Med).iml" filepath="$PROJECT_DIR$/58LengthOfLastWord(Med)/58LengthOfLastWord(Med).iml" />
+      <module fileurl="file://$PROJECT_DIR$/59GenerateMatrix(Med)/59GenerateMatrix(Med).iml" filepath="$PROJECT_DIR$/59GenerateMatrix(Med)/59GenerateMatrix(Med).iml" />
+      <module fileurl="file://$PROJECT_DIR$/61RotateRight(Med)/61RotateRight(Med).iml" filepath="$PROJECT_DIR$/61RotateRight(Med)/61RotateRight(Med).iml" />
       <module fileurl="file://$PROJECT_DIR$/MyLeetCode.iml" filepath="$PROJECT_DIR$/MyLeetCode.iml" />
     </modules>
   </component>
