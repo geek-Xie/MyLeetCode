@@ -49,6 +49,8 @@
       <module fileurl="file://$PROJECT_DIR$/61RotateRight(Med)/61RotateRight(Med).iml" filepath="$PROJECT_DIR$/61RotateRight(Med)/61RotateRight(Med).iml" />
       <module fileurl="file://$PROJECT_DIR$/62UniquePaths(Med)/62UniquePaths(Med).iml" filepath="$PROJECT_DIR$/62UniquePaths(Med)/62UniquePaths(Med).iml" />
       <module fileurl="file://$PROJECT_DIR$/63UniquePathsWithObstacles(Med)/63UniquePathsWithObstacles(Med).iml" filepath="$PROJECT_DIR$/63UniquePathsWithObstacles(Med)/63UniquePathsWithObstacles(Med).iml" />
+      <module fileurl="file://$PROJECT_DIR$/64MinPathSum(Med)/64MinPathSum(Med).iml" filepath="$PROJECT_DIR$/64MinPathSum(Med)/64MinPathSum(Med).iml" />
+      <module fileurl="file://$PROJECT_DIR$/66PlusOne(Easy)/66PlusOne(Easy).iml" filepath="$PROJECT_DIR$/66PlusOne(Easy)/66PlusOne(Easy).iml" />
       <module fileurl="file://$PROJECT_DIR$/MyLeetCode.iml" filepath="$PROJECT_DIR$/MyLeetCode.iml" />
     </modules>
   </component>
