@@ -54,6 +54,8 @@
       <module fileurl="file://$PROJECT_DIR$/67AddBinary(Easy)/67AddBinary(Easy).iml" filepath="$PROJECT_DIR$/67AddBinary(Easy)/67AddBinary(Easy).iml" />
       <module fileurl="file://$PROJECT_DIR$/69MySqrt(Easy)/69MySqrt(Easy).iml" filepath="$PROJECT_DIR$/69MySqrt(Easy)/69MySqrt(Easy).iml" />
       <module fileurl="file://$PROJECT_DIR$/70ClimbStairs(Easy)/70ClimbStairs(Easy).iml" filepath="$PROJECT_DIR$/70ClimbStairs(Easy)/70ClimbStairs(Easy).iml" />
+      <module fileurl="file://$PROJECT_DIR$/71SimplifyPath(Med)/71SimplifyPath(Med).iml" filepath="$PROJECT_DIR$/71SimplifyPath(Med)/71SimplifyPath(Med).iml" />
+      <module fileurl="file://$PROJECT_DIR$/73SetZeroes(Med)/73SetZeroes(Med).iml" filepath="$PROJECT_DIR$/73SetZeroes(Med)/73SetZeroes(Med).iml" />
       <module fileurl="file://$PROJECT_DIR$/MyLeetCode.iml" filepath="$PROJECT_DIR$/MyLeetCode.iml" />
     </modules>
   </component>
