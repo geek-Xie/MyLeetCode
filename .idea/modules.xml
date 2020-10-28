@@ -58,6 +58,8 @@
       <module fileurl="file://$PROJECT_DIR$/73SetZeroes(Med)/73SetZeroes(Med).iml" filepath="$PROJECT_DIR$/73SetZeroes(Med)/73SetZeroes(Med).iml" />
       <module fileurl="file://$PROJECT_DIR$/74SearchMatrix(Med)/74SearchMatrix(Med).iml" filepath="$PROJECT_DIR$/74SearchMatrix(Med)/74SearchMatrix(Med).iml" />
       <module fileurl="file://$PROJECT_DIR$/75SortColors(Med)/75SortColors(Med).iml" filepath="$PROJECT_DIR$/75SortColors(Med)/75SortColors(Med).iml" />
+      <module fileurl="file://$PROJECT_DIR$/77Combine(Med)/77Combine(Med).iml" filepath="$PROJECT_DIR$/77Combine(Med)/77Combine(Med).iml" />
+      <module fileurl="file://$PROJECT_DIR$/78Subsets(Med)/78Subsets(Med).iml" filepath="$PROJECT_DIR$/78Subsets(Med)/78Subsets(Med).iml" />
       <module fileurl="file://$PROJECT_DIR$/MyLeetCode.iml" filepath="$PROJECT_DIR$/MyLeetCode.iml" />
     </modules>
   </component>
