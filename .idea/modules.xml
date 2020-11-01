@@ -62,6 +62,8 @@
       <module fileurl="file://$PROJECT_DIR$/78Subsets(Med)/78Subsets(Med).iml" filepath="$PROJECT_DIR$/78Subsets(Med)/78Subsets(Med).iml" />
       <module fileurl="file://$PROJECT_DIR$/79Exist(Med)/79Exist(Med).iml" filepath="$PROJECT_DIR$/79Exist(Med)/79Exist(Med).iml" />
       <module fileurl="file://$PROJECT_DIR$/80RemoveDuplicates(Med)/80RemoveDuplicates(Med).iml" filepath="$PROJECT_DIR$/80RemoveDuplicates(Med)/80RemoveDuplicates(Med).iml" />
+      <module fileurl="file://$PROJECT_DIR$/81Search(Med)/81Search(Med).iml" filepath="$PROJECT_DIR$/81Search(Med)/81Search(Med).iml" />
+      <module fileurl="file://$PROJECT_DIR$/82DeleteDuplicates(Med)/82DeleteDuplicates(Med).iml" filepath="$PROJECT_DIR$/82DeleteDuplicates(Med)/82DeleteDuplicates(Med).iml" />
       <module fileurl="file://$PROJECT_DIR$/MyLeetCode.iml" filepath="$PROJECT_DIR$/MyLeetCode.iml" />
     </modules>
   </component>
