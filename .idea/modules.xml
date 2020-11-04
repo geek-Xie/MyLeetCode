@@ -67,6 +67,7 @@
       <module fileurl="file://$PROJECT_DIR$/83DeleteDuplicates(Easy)/83DeleteDuplicates(Easy).iml" filepath="$PROJECT_DIR$/83DeleteDuplicates(Easy)/83DeleteDuplicates(Easy).iml" />
       <module fileurl="file://$PROJECT_DIR$/86Partition(Med)/86Partition(Med).iml" filepath="$PROJECT_DIR$/86Partition(Med)/86Partition(Med).iml" />
       <module fileurl="file://$PROJECT_DIR$/88Merge(Easy)/88Merge(Easy).iml" filepath="$PROJECT_DIR$/88Merge(Easy)/88Merge(Easy).iml" />
+      <module fileurl="file://$PROJECT_DIR$/90SubsetsWithDup(Med)/90SubsetsWithDup(Med).iml" filepath="$PROJECT_DIR$/90SubsetsWithDup(Med)/90SubsetsWithDup(Med).iml" />
       <module fileurl="file://$PROJECT_DIR$/MyLeetCode.iml" filepath="$PROJECT_DIR$/MyLeetCode.iml" />
     </modules>
   </component>
