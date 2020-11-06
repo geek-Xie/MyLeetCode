@@ -70,6 +70,8 @@
       <module fileurl="file://$PROJECT_DIR$/90SubsetsWithDup(Med)/90SubsetsWithDup(Med).iml" filepath="$PROJECT_DIR$/90SubsetsWithDup(Med)/90SubsetsWithDup(Med).iml" />
       <module fileurl="file://$PROJECT_DIR$/91NumDecodings(Med)/91NumDecodings(Med).iml" filepath="$PROJECT_DIR$/91NumDecodings(Med)/91NumDecodings(Med).iml" />
       <module fileurl="file://$PROJECT_DIR$/92ReverseBetween(Med)/92ReverseBetween(Med).iml" filepath="$PROJECT_DIR$/92ReverseBetween(Med)/92ReverseBetween(Med).iml" />
+      <module fileurl="file://$PROJECT_DIR$/93RestoreIpAddresses(Med)/93RestoreIpAddresses(Med).iml" filepath="$PROJECT_DIR$/93RestoreIpAddresses(Med)/93RestoreIpAddresses(Med).iml" />
+      <module fileurl="file://$PROJECT_DIR$/94InorderTraversal(Med)/94InorderTraversal(Med).iml" filepath="$PROJECT_DIR$/94InorderTraversal(Med)/94InorderTraversal(Med).iml" />
       <module fileurl="file://$PROJECT_DIR$/MyLeetCode.iml" filepath="$PROJECT_DIR$/MyLeetCode.iml" />
     </modules>
   </component>
