@@ -21,6 +21,8 @@
       <module fileurl="file://$PROJECT_DIR$/108SortedArrayToBST(Easy)/108SortedArrayToBST(Easy).iml" filepath="$PROJECT_DIR$/108SortedArrayToBST(Easy)/108SortedArrayToBST(Easy).iml" />
       <module fileurl="file://$PROJECT_DIR$/109SortedListToBST(Med)/109SortedListToBST(Med).iml" filepath="$PROJECT_DIR$/109SortedListToBST(Med)/109SortedListToBST(Med).iml" />
       <module fileurl="file://$PROJECT_DIR$/110IsBalanced(Easy)/110IsBalanced(Easy).iml" filepath="$PROJECT_DIR$/110IsBalanced(Easy)/110IsBalanced(Easy).iml" />
+      <module fileurl="file://$PROJECT_DIR$/111MinDepth(Easy)/111MinDepth(Easy).iml" filepath="$PROJECT_DIR$/111MinDepth(Easy)/111MinDepth(Easy).iml" />
+      <module fileurl="file://$PROJECT_DIR$/112HasPathSum(Easy)/112HasPathSum(Easy).iml" filepath="$PROJECT_DIR$/112HasPathSum(Easy)/112HasPathSum(Easy).iml" />
       <module fileurl="file://$PROJECT_DIR$/11MaxArea(Med)/11MaxArea(Med).iml" filepath="$PROJECT_DIR$/11MaxArea(Med)/11MaxArea(Med).iml" />
       <module fileurl="file://$PROJECT_DIR$/12IntToRoman(Med)/12IntToRoman(Med).iml" filepath="$PROJECT_DIR$/12IntToRoman(Med)/12IntToRoman(Med).iml" />
       <module fileurl="file://$PROJECT_DIR$/13RomanToInt(Easy)/13RomanToInt(Easy).iml" filepath="$PROJECT_DIR$/13RomanToInt(Easy)/13RomanToInt(Easy).iml" />
